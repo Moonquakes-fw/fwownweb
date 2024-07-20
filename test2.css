@@ -1,0 +1,40 @@
+.box{
+    margin-top: 30px;
+}
+.box-hd{
+    height: 40px;
+}
+.box-hd h3{
+  float: left;
+  font-size: 20px;
+  color: #494949;
+}
+.box-hd a{
+    float: right;
+    font-size: 12px;
+    color: #a5a5a5;
+    margin-top: 10px;
+    margin-right: 30px;
+}
+.box-bd ul{
+    width: 1300px;
+}
+.box-bd ul li{
+    float: left;
+    width: 228px;
+    height: 270px;
+    background-color:aliceblue;
+    list-style:none;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+.box-bd ul li img{
+    width: 100%;
+}
+.box-bd ul li h4{
+    margin: 20px 20px 20px 25px;
+    font-size: 14px;
+    color: black;
+  font-weight: 400px;
+
+}
